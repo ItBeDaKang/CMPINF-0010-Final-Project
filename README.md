@@ -3,4 +3,4 @@
 ## Datasets:
 * Repository for various datasets (housing, crime, education, etc.) - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data
 * Crime data - https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f?inner_span=True
-* Education data - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/755c09dc-be92-4787-84a6-080d84345979
+* Education data (Ethan) - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/755c09dc-be92-4787-84a6-080d84345979
