@@ -2,6 +2,7 @@
 
 ## Contacts
 * Ethan Wells - etw15@pitt.edu
+* Luke Hilliard - LLH66@pitt.edu
 
 ## Datasets:
 * Repository for various datasets (housing, crime, education, etc.) - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data
