@@ -1,4 +1,4 @@
-# CMPINF 0010 Final Project Group 10
+# CMPINF 0010 Final Project Group 10 - Team (INSERT NAME HERE!)
 
 ## Contacts
 * Ethan Wells - etw15@pitt.edu
