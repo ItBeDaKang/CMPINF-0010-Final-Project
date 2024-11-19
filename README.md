@@ -12,3 +12,4 @@
 * Housing value (Hsien Zo) - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/262d10d1-1e49-41f6-bb8a-0c4511a9085c
 
 ## Overview
+This repository contains the Jupyter notebook files for each group member's individual work as well as a single notebook file (named "group_notebook") that serves as a collection of our work.
